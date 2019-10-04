@@ -7,7 +7,7 @@ mimimized views can be **moved** and **rearranged** by simple **drag and drop**.
 python console can be invoked with M-x -> python console
 
 ## best practice
-debug on the left
+debug on the left(dock pinned)
 terminal, python console, and version control on the right
 
 ## view mode
