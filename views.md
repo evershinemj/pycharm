@@ -9,3 +9,10 @@ python console can be invoked with M-x -> python console
 ## best practice
 debug on the left
 terminal, python console, and version control on the right
+
+## view mode
+- dock pinned(affect the size of the editor; mimimize when clicking the editor)
+- dock unpinned(affect the size of the editor; not mimimize when clicking the editor)
+- undock(doesn't affect the size of the editor)
+- float
+- window
