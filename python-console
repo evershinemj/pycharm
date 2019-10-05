@@ -1,0 +1,8 @@
+# input
+
+input is marked with a green **>?**, and the current input has extra blank lines that highlight it
+
+
+# editting
+
+**vim** and **emacs** work fine in python console, and the usual C-z applies as for switching between vim and emacs
