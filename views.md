@@ -6,6 +6,9 @@ mimimized views can be **moved** and **rearranged** by simple **drag and drop**.
 ## python console
 python console can be invoked with M-x -> python console
 
+## run
+vim and emacs work in the **run** view, but not perfectly. C-z works fine, though
+
 ## best practice
 debug on the left(dock pinned)
 run on the left(undock)
