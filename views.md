@@ -11,6 +11,7 @@ python console can be invoked with M-x -> python console
 - two basic situations: 
   1. run current file(top right button, or right click -> run <current-file>) 
   2. choose a file to run(M-x -> run...)
+- **right click on the current file to run** approach is preferred, as top right button can only run files that have already been run
 
 ## best practice
 debug on the left(dock pinned)
