@@ -12,6 +12,7 @@ python console can be invoked with M-x -> python console
   1. run current file(top right button, or right click -> run <current-file>) 
   2. choose a file to run(M-x -> run...)
 - **right click on the current file to run** approach is preferred, as top right button can only run files that have already been run
+- severals tabs are allowed. hence different python files can be run simultaneously
 
 ## best practice
 debug on the left(dock pinned)
