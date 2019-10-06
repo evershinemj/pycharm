@@ -7,7 +7,10 @@ mimimized views can be **moved** and **rearranged** by simple **drag and drop**.
 python console can be invoked with M-x -> python console
 
 ## run
-vim and emacs work in the **run** view, but not perfectly. C-z works fine, though
+- vim and emacs work in the **run** view, but not perfectly. C-z works fine, though
+- two basic situations: 
+  1. run current file(top right button, or right click -> run <current-file>) 
+  2. choose a file to run(M-x -> run...)
 
 ## best practice
 debug on the left(dock pinned)
