@@ -14,6 +14,9 @@ python console can be invoked with M-x -> python console
 - **right click on the current file to run** approach is preferred, as top right button can only run files that have already been run
 - severals tabs are allowed. hence different python files can be run simultaneously
 
+## editor tabs
+by **drag and drop**, editor tabs can be reordered, as in eclipse.
+
 ## best practice
 debug on the left(dock pinned)
 run on the left(undock)
